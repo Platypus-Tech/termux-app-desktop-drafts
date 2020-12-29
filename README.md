@@ -63,3 +63,11 @@ all currently installed plugins.
 
 - Android Terminal Emulator: Android terminal app which Termux terminal handling
   is based on. Inactive. [Source](https://github.com/jackpal/Android-Terminal-Emulator).
+
+***
+
+## Goals
+
+My goals for this project are:
+1. Make this a desktop app. It works on Chrome OS, so, hypothetically, it could work as a desktop app.
+2. I don't really have a two yet, but I'll think of something.
